@@ -1,0 +1,28 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3bf2dc5c-cc04-9425-6c8f-25d6cdd23a8d",
+      "426c48d9-7e87-828d-fa4e-f537dcda9352"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Archery",
+  "course_description": "This 12 session course is designed for the beginning or novice archer and uses recurve indoor target bows and equipment. The purpose of the course is to introduce students to the basic techniques of indoor target archery emphasizing the care and use of equipment, range safety, stance and shooting techniques, scoring and competition.\n",
+  "department_numbers": [
+    "PE"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "PE.730",
+  "learning_resource_types": [
+    "Demonstration Videos",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
